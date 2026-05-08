@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "/opt/homebrew/Cellar/tomcat/11.0.21/libexec/lib/servlet-api.jar",
+    "lib/mysql-connector-j.jar"
+  ]
+}
