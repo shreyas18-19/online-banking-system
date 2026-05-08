@@ -67,6 +67,25 @@ youruser@gmail.com
 
 Password:
 yourpassword
+
+## Screenshots
+
+### Dashboard
+Dashboard
+
+### Transfer System
+Transfer
+
+### Cards & Services
+Cards
+
+### Admin Panel
+Admin
+
+### Statement
+Statement
+
+### Login
 ## Author
 
 Shreyas Gite
